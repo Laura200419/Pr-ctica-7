@@ -1,0 +1,69 @@
+{
+    "lista_pokemons": [
+        {
+            "id": "0004",
+            "nombre":"Charmander",
+            "tipo": ["fuego"],
+            "peso": {"unidad":"kg", "peso_total":8.5},
+            "altura": {"unidad": "m", "altura_total": 0.6},
+            "estadísticas": {"velocidad":3, "fortaleza": 5, "precisión":4, "resistencia":3},
+            "movimientos": [
+                {"nombre":"Cuchillada", "descripción":"Se abalanza en la dirección seleccionada e inflige daño a los Pokémon rivales.", "potencia":70, "contacto":"Si" },
+                {"nombre":"Giro Fuego", "descripción":"Lanza llamas poderosas para bloquear el movimiento de su oponente, produciéndole un gran daño.", "potencia":35, "contacto":"No" }
+            ],
+            "imagen": "https://www.google.com/search?sca_esv=598740777&sxsrf=ACQVn0-x2dofyCGwMegwsiCHko66cSBNJQ:1705398920172&q=Charmander&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiE5NiG0uGDAxVPQ6QEHUZqC3MQ0pQJegQIChAB&biw=767&bih=694&dpr=1.25#imgrc=05P9km6E0eyQaM",
+            "evoluciones": [{"pokémon_id": "0005", "nivel":16},{"pokémon_id":"0006","nivel":36}]
+        },
+        {
+            "id": "0007",
+            "nombre":"Squirtle",
+            "tipo": ["agua"],
+            "peso": {"unidad":"kg", "peso_total":9},
+            "altura": {"unidad": "m", "altura_total": 0.5},
+            "estadísticas": {"velocidad":3, "fortaleza": 3, "precisión":4, "resistencia":4},
+            "movimientos": [
+                {"nombre":"Pistola agua", "descripción": "Lanza un chorro de agua que inflige daño a los Pokémon rivales a los que golpea.", "potencia":40, "contacto":"No"},
+                {"nombre":"Placaje", "descripción":"Embiste violentamente en la dirección seleccionada e inflige daño a los Pokémon rivales en su trayectoria, además de lanzarlos por los aires.", "potencia":40, "contacto":"Si"}
+            ],
+            "imagen": "https://www.google.com/search?sca_esv=598782993&sxsrf=ACQVn09-D21JNlLXNweiXfOWrjEO0UPQBg:1705407684051&q=squirtle&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjAxdHZ8uGDAxVCU6QEHWrWB4wQ0pQJegQIDRAB&biw=764&bih=694&dpr=1.25#imgrc=bSkoQldbURtCKM",
+            "evoluciones": [{"pokémon_id": "0008", "nivel":16},{"pokémon_id":"0009","nivel":36}]
+        },
+        {
+            "id": "0236",
+            "nombre":"Tyrogue",
+            "tipo": ["lucha"],
+            "peso": {"unidad":"kg", "peso_total":21},
+            "altura": {"unidad": "m", "altura_total": 0.7},
+            "estadísticas": {"velocidad":4, "fortaleza": 4, "precisión":4, "resistencia":2},
+            "movimientos": [
+                {"nombre":"Avalancha","descripción":"Lanza grandes rocas a la ubicación seleccionada que infligen daño a los rivales en el área de efecto y los incapacitan temporalmente.", "potencia":75, "contacto":"No"},
+                {"nombre":"Terratemblor","descripción":"Golpea enérgicamente el suelo e inflige daño a los rivales en el área de efecto.", "potencia":60, "contacto":"No"}
+            ],
+            "imagen": "https://www.google.com/search?sca_esv=599088636&sxsrf=ACQVn08Jef-WJD5e1chW6-LfYJBXQiHM-Q:1705488595727&q=tyrogue&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiftaqPoOSDAxX1UaQEHar1AQIQ0pQJegQICxAB&biw=771&bih=690&dpr=1.25#imgrc=dRAsi3Yaqi2ErM&imgdii=1xcJTUIwYG79BM",
+            "evoluciones": [{"pokémon_id": ["0106", "0107", "0237"], "nivel":20}]
+        }
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
